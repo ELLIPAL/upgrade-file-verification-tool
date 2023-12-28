@@ -27,8 +27,10 @@ An example usage of the tool:
 3. Since we have applied standard Bitcoin signature, you can also verify the signature result by any tool you are familiar with.
 4. The addresses used by ELLIPAL:  
 ```
+    EC02+[Titan 2.0]: 1KaoUHBHnpyWsj49avfrVoMjMmoaa4SXae  
+    EC03[Titan Mini]: 188e1iJijiTnARQVM4eaJyq4VsZqWPGJXv  
     EC02[Titan]: 16aKCK1V63C8YQHdWCNiLvumhfJA7HHTKs  
-    EC01 V1: 16VbmSZz1XMijBVsAJkNmZJfZBWWJUP9R2  
-    EC01 V2：17NTNuG1sGoHz9iPgZFYAUYHBn9WqEsTDb  
+    EC01 V2: 17NTNuG1sGoHz9iPgZFYAUYHBn9WqEsTDb  
+    EC01 V1: 16VbmSZz1XMijBVsAJkNmZJfZBWWJUP9R2
 ```
 
